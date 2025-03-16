@@ -1,0 +1,6 @@
+{
+    "name": "Domotic Solutions Theme",
+    "homeassistant": "2024.5.0b0",
+    "filename": "ds-theme.yaml",
+    "render_readme": true
+}
