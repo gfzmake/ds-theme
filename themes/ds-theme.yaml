@@ -2,7 +2,7 @@ Domotic Solutions:
 
   modes:
     light:
-      background-image: "center / cover no-repeat fixed url('https://github.com/gfzmake/ds-theme/blob/ce05bea8d3342c29e1771ed71a5b09840e7c2bd6/themes/background.png')"
+      background-image: "center / cover no-repeat fixed url('https://raw.githubusercontent.com/gfzmake/ds-theme/refs/heads/main/themes/background.png')"
       primary-background-color: rgb(84, 80, 76)
       secondary-background-color: rgb(84, 80, 76)
       app-header-background-color: rgba(84, 80, 76, 0.3)
@@ -10,7 +10,7 @@ Domotic Solutions:
       app-theme-color: rgb(122, 114, 106) 
 
     dark:
-      background-image: "center / cover no-repeat fixed url('https://github.com/gfzmake/ds-theme/blob/ce05bea8d3342c29e1771ed71a5b09840e7c2bd6/themes/background.png')"
+      background-image: "center / cover no-repeat fixed url('https://raw.githubusercontent.com/gfzmake/ds-theme/refs/heads/main/themes/background.png')"
       primary-background-color: rgb(25, 24, 22)
       secondary-background-color: rgb(25, 24, 22)
       app-header-background-color: rgba(25, 24, 22, 0.3)
